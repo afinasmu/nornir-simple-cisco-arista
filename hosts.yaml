@@ -1,0 +1,12 @@
+---
+rtr1:
+	hostname: 192.168.67.42
+	platform: 'ios'
+	username: admin
+	password: admin
+	
+sw1:
+	hostname: 192.168.67.30
+	platform: 'eos'
+	username: admin
+	password: admin
